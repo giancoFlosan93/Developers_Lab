@@ -37,16 +37,7 @@ Centralizar el conocimiento adquirido sobre Eclipse durante el ciclo DAM.
 - Formateo de código
 
 ## Estado
-
-| Tema | Estado |
-|--------|--------|
-| Instalación | ⏳ Pendiente |
-| Workspace | ⏳ Pendiente |
-| Crear Proyecto Java | ⏳ Pendiente |
-| Crear Paquete | ⏳ Pendiente |
-| Importar Proyecto | ⏳ Pendiente |
-| Exportar Proyecto | ⏳ Pendiente |
-| Atajos de Teclado | ⏳ Pendiente |
+| Instalación | ✅ Completado | ✅ Completado | P01_Instalacion_Eclipse.md |
 
 ## Notas
 Los apuntes se irán completando conforme se avance en la asignatura de Programación.
